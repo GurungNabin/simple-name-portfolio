@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # simple-name-portfolio
 # simple-name-portfolio
 # simple-name-portfolio
+# simple-name-portfolio
