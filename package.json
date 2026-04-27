@@ -1,8 +1,8 @@
 {
-  "name": "sandy-portfolio",
+  "name": "nabin-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://newasandy.github.io/sandy-website",
+  "homepage": "https://github.com/GurungNabin/simple-name-portfolio",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
