@@ -10,4 +10,7 @@ Currently, two official plugins are available:
 # simple-name-portfolio
 # simple-name-portfolio
 # simple-name-portfolio
+<<<<<<< HEAD
 # simple-name-portfolio
+=======
+>>>>>>> 124205cdf242c191a372ed3fb6b35570b409958b
