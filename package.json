@@ -2,7 +2,6 @@
   "name": "nabin-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gurungnabin.github.io/simple-name-portfolio/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
@@ -16,7 +15,6 @@
     "@react-three/fiber": "^8.17.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-three-fiber": "^6.0.13",
     "three": "^0.168.0"
   },
   "devDependencies": {
